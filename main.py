@@ -3,7 +3,8 @@ def add(num1, num2):
    print(f"The sum of {num1} and {num2} is {result}")
  
 def subtract(num1, num2):
-   pass
+   result = int(num1) - int(num2)
+   print(f"The difference between {num1} and {num2} is {result}")
  
 def multiply(num1, num2):
    pass
