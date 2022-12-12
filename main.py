@@ -23,7 +23,8 @@ def divide(num1, num2):
    """
    Finds the division of two numbers.
    """
-   pass
+   result = int(num1) / int(num2)
+   print(f"The result of dividing {num1} by {num2} is {result}")
  
  
  
