@@ -1,16 +1,28 @@
 def add(num1, num2):
+   """
+   Finds the sum of two numbers.
+   """
    result = int(num1) + int(num2)
    print(f"The sum of {num1} and {num2} is {result}")
  
 def subtract(num1, num2):
+   """
+   Find the difference between two numbers.
+   """
    result = int(num1) - int(num2)
    print(f"The difference between {num1} and {num2} is {result}")
  
 def multiply(num1, num2):
+   """
+   Finds the product of two numbers.
+   """
    result = int(num1) * int(num2)
    print(f"The product of {num1} and {num2} is {result}")
  
 def divide(num1, num2):
+   """
+   Finds the division of two numbers.
+   """
    pass
  
  
